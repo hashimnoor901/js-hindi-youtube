@@ -1,5 +1,5 @@
 // Immediately Invoked Function Expressions (IIFE)
-
+// use to create private scope in javascript
 
 (function chai(){
     // named IIFE
